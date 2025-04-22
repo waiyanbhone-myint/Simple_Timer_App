@@ -1,7 +1,5 @@
 package com.ps;
-import java.nio.file.attribute.UserPrincipal;
 import java.time.LocalDate;
-import java.util.Locale;
 import java.util.Scanner;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
